@@ -1,0 +1,164 @@
+/*LETRA*/
+*{
+	font-family: Open Sans;
+}
+/*COMUN*/
+.top-3{
+	margin-top: 3%;
+}
+.top-5{
+	margin-top: 5%;
+}
+.top-8{
+	margin-top: 8%;
+}
+.top-10{
+	margin-top: 10%;
+}
+.top-20{
+	margin-top: 15%;
+}
+.float{
+	float: left;
+}
+.float2{
+	float: right;
+}
+/*NAV*/
+.img-user{
+	width: 80%;
+}
+.lista-m{
+	color: white;
+	font-size: 20px;
+}
+/*IMAGEN DE FONDO*/
+.compu{
+	background-image: url("../image/large.jpg");
+	background-size: cover;
+	height: 660px;
+}
+.compu2{
+ 	/*background-color: #5d565d;
+  	/*opacity: 0.5;
+  	filter: alpha(opacity=60);
+  	height: 660px;*/
+  	-webkit-filter: brightness(40%);
+	filter: brightness(40%);
+}
+
+.text-h1{
+	color: white;
+	margin-top: 25%;
+	font-size: 50px;
+}
+.bg-blue{
+	background-color: #4cb1c0;
+	height: 147px;
+}
+.text-w{
+	color: white;
+}
+.right{
+	margin-left: 50%;
+}
+.btn-white{
+	border: 2px solid white;
+	border-radius: 5px;
+	margin: 30px;
+	color: white;
+	padding: 15px 20px;
+	text-decoration: none;
+	font-size: 25px;
+}
+/*SERVICIOS*/
+.text-blue{
+	color: #55acee;
+	font-size: 40px;
+	font-weight: 300;
+}
+.circulo-w{
+	border-radius: 100px;
+	padding: 50px ;
+	width: 150px;
+	height: 150px;
+	box-shadow: -3px 5px 5px 2px rgba(168,163,168,0.58);
+	margin-left: 100px;
+}
+.icon-m{
+	color: #55acee;
+}
+.text-g{
+	color: 	#5d5d5d;
+}
+.size{
+	font-size: 17px;
+}
+/*SEPARADOR*/
+.borde{
+	border-bottom: 1px solid #cccccc;
+}
+.separador{
+	margin-top: -85px;
+	margin-left: 45%;
+}
+/*EJEMPLO: IMAGENES*/
+.logo{
+	width: 50%;
+}
+.flecha{
+	margin-left: 40%;
+}
+.size2{
+	font-size: 15px;
+}
+/*IMAGENES Y TEXTO*/
+#img-sec{
+	background-image: url("../image/sec-2.jpg");
+	background-size: cover;
+	width: 105%;
+	height: 650px;
+	margin-top: -3%;
+	margin-left: -5%;
+}
+.img-sec2{
+	background-color: black;
+  	opacity: 0.5;
+  	filter: alpha(opacity=60);
+  	height: 650px;
+}
+.bg-azul{
+	background-color: #55acee;
+	color: white;
+	border-radius: 50%;
+	padding: 20px;
+}
+.text-blue2{
+	color: #55acee;
+	font-size: 25px;
+	font-weight: 300;
+}
+.m-l{
+	margin-left: -5%;
+}
+.top-menos{
+	margin-top: -20px;
+}
+/*IMAGENES COLOR DE TEXTO SECCION POR QUE*/
+.color{
+	color: #55acee;
+}
+.img-banner{
+	width: 100%;
+}
+/*FOOTER*/
+.bg-blues{
+	background-color: #002533;
+	height: 150px;
+}
+.padding{
+	padding-right:5%; 
+}
+.m-r{
+	margin-left: 60%;
+}
